@@ -64,10 +64,10 @@ li a:hover:not(.active) {
 }
 
 h2 {
-    padding: 0.5em;
+    padding: 2%;
     font-size: 20px;
     width: 40%;
-    margin: 50px 30% 10px 30%;
+    margin: 50px 29% 10px 29%;
     background-color: rgba(127, 215, 139, 0.3);
     text-align: center;
     color: rgba(22, 65, 47, 0.94);
